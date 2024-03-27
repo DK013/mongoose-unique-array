@@ -18,9 +18,6 @@
   },
   "license": "Apache 2.0",
   "main": "index.js",
-  "peerDependencies": {
-    "mongoose": "6.x || 7.x || 8x"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/vkarpov15/mongoose-unique-array.git"
